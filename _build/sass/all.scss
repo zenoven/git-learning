@@ -1,0 +1,8 @@
+@import "compass/reset";
+$width-wrap: 20px; 
+body{
+    color: #fff;
+}
+.wrap{
+    width: $width-wrap;
+}
